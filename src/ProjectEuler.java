@@ -17,6 +17,7 @@ public class ProjectEuler {
         // TODO code application logic here
         
         System.out.println("Test");
+        System.out.println("Fuck you");
     }
     
 }
